@@ -1,0 +1,6 @@
+container_engine: singularity
+singularity_dir: /projects/0/wtrcycle/singularity-images
+output_dir: /gpfs/work1/0/wtrcycle/users/jaerts/camels_uk/model_runs/
+grdc_location:  /projects/0/wtrcycle/GRDC/GRDC_GCOSGTN-H_27_03_2019
+parameterset_dir: /projects/0/wtrcycle/parameter-sets
+parameter_sets:
